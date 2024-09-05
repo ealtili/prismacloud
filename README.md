@@ -7,6 +7,7 @@ This Terraform configuration exports all Prisma Cloud policies to local JSON fil
 - Terraform installed on your machine.
 - Access to Prisma Cloud with appropriate permissions to list policies.
 - Replace values in credentials.json
+- create policies folder (normally terraform can handle folder creation but i've been informed in somecases it didnt work without folder)
 
 ## Usage
 
